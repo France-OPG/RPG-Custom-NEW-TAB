@@ -1,6 +1,8 @@
 # RPG-Custom-NEW-TAB
 ## Remplacer le style classique de votre nouvelle onglet pour un plus sympa.
 
+⚠!!! RPG-Custom-NEW-TAB ne fonctionne pas encore !!!⚠
+
 ![RPG-Custom-NEW-TAB](http://respinguy.tk/logo-img-theme/image/RPG-custom-NEW-TAB.png)
 
 ## Installation sur votre système Linux :
